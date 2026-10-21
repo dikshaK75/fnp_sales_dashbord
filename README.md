@@ -1,27 +1,41 @@
 # Ferns and Petals (FNP) Sales Analysis Dashboard
 
 ## Project Overview
-This project focuses on analyzing Ferns and Petals (FNP) sales data to understand revenue, customer spending, product performance, and order trends.
+The FNP Sales Analysis Dashboard is a data analytics project focused on analyzing sales data from Ferns and Petals. The dashboard provides insights into total revenue, total orders, average customer spending, order delivery time, monthly sales trends, product performance, and city-wise orders.
 
-## Dashboard Highlights
-- Total Orders and Total Revenue
-- Average Customer Spending
-- Average Order-to-Delivery Time
-- Revenue by Occasion
-- Revenue by Product Category
-- Monthly Revenue Trends
-- Top 5 Products by Revenue
-- Top 10 Cities by Orders
-- Revenue by Order Hour
+It helps understand customer purchasing behavior, identify top-performing products, and compare revenue across different occasions.
 
-## Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Charts and Data Visualization
-- Slicers and Interactive Filters
+Key Features
 
-## Project Objective
-The objective is to identify useful sales insights and help improve business decisions through data visualization.
+Total Orders and Total Revenue
+
+Average Customer Spending
+
+Order-to-Delivery Time Analysis
+
+Monthly Revenue Analysis
+
+Revenue by Occasion and Category
+
+Top 5 Products by Revenue
+
+Top 10 Cities by Orders
+
+Interactive Filters for data analysis
+
+Tools Used
+
+Microsoft Excel
+
+Pivot Tables
+
+Charts and Data Visualization
+
+Slicers and Interactive Filters
+
+Project Objective
+
+To analyze sales data, identify business trends, and generate insights that can support better business decisions.
 
 ## Dashboard Preview
 ![FNP Sales Analysis Dashboard](Dashbord.png)
